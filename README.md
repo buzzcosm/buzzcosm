@@ -2,9 +2,7 @@
 
 > <b>Creativity is just connecting things ... The broader one's understanding of the human experience, the better design we will have.</b>
 >
-> ~ <cite>Steve Jobs, former CEO and creator of Apple</cite>
-
-<!-- ![moon](./img/man-2134881_1280.jpg) -->
+> ~ <i>Steve Jobs, former CEO and creator of Apple</i>
 
 <img src="./img/man-2134881_1280.jpg" width="400" />
 
