@@ -10,6 +10,8 @@ Image by <a href="https://pixabay.com/users/funkyfocus-3900817/?utm_source=link-
 
 ### Thoughts at the gas station
 
+<img src="./img/BUZZCOSM.webp" width="400" />
+
 You keep developing and (hopefully) never stop. But sometimes you take a coffee and ponder 🤔 the endlessness ᯓ★ of things.
 
 Take a break and move on... ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
