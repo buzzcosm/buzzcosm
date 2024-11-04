@@ -1,5 +1,11 @@
 # BUZZCOSM
 
+> <h2>❝ If not you, who? If not now, when? ❞</h2>
+>
+> ~ <i>unknown</i> 🤷🏻‍♂️
+
+---
+
 > <b>Creativity is just connecting things ... The broader one's understanding of the human experience, the better design we will have.</b>
 >
 > ~ <i>Steve Jobs, former CEO and creator of Apple</i>
