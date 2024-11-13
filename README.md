@@ -5,6 +5,24 @@
 > ~ <i>unknown</i> 🤷🏻‍♂️
 
 ---
+```
+                              __
+                     /\    .-" /
+                    /  ; .'  .' 
+                   :   :/  .'   
+                    \  ;-.'     
+       .--""""--..__/     `.    
+     .'           .'    `o  \   
+    /                    `   ;  
+   :                  \      :  
+ .-;        -.         `.__.-'  
+:  ;          \     ,   ;       
+'._:           ;   :   (        
+    \/  .__    ;    \   `-.     
+ bug ;     "-,/_..--"`-..__)    
+     '""--.._:
+```
+---
 
 > <b>Creativity is just connecting things ... The broader one's understanding of the human experience, the better design we will have.</b>
 >
