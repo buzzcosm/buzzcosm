@@ -16,9 +16,6 @@
   </h1>
 </div>
 
----
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buzzcosm&size_weight=0.5&count_weight=0.5)-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzcosm&size_weight=0.5&count_weight=0.5">
 </p>
